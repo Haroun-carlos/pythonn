@@ -3,7 +3,7 @@ import random
 
 def bubble_sort(arr):
     """
-    Bubble Sort algorithm to sort a list in ascending order.
+    Bubble Sort algorithm to  sort a list in ascending order.
     :param arr: List of numbers
     :return: Sorted list
     """
